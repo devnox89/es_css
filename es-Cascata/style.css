@@ -1,8 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   color: lightslategray;
 }
 
 blockquote {
+  margin: 5px;
   background-color: rgba(0, 12, 24, 0.05);
 }
 
